@@ -1,6 +1,6 @@
 # Reuben-cybersecurity-network-security
 
- 👨🏾‍💻 Reuben Sarbah – Aspiring Network Security Analyst
+ 👨🏾‍💻 Reuben Sarbah – Aspiring Network Security Analyst.
 
 📍 Accra, Ghana  
 🎓 BSc IT Networking Student – Accra Institute of Technology  
