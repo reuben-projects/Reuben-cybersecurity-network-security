@@ -52,7 +52,7 @@ I am are required to divide it into **4 subnets** for different departments.
 - [IP Configuration – PC 0 ADMIN](./media/ip%20configuration%20pc%200%20ADMIN.png)
 - [IP Configuration – PC 1 HR](./media/ip%20configuration%20pc%201%20HR.png)
 - [IP Configuration – PC 2 IT](./media/ip%20configuration%20pc%202%20IT.png)
-- [IP Configuration – PC 3 SALES](./media/ip%20configuration%20pc%203%20SALES.png)
+- [IP Configuration – PC 3 SALES](./media/ip%20configuration%20pc%203%20SALES.png)  
 
 ### 📶 Ping Test Results
 - [Ping Result – PC 0 ADMIN](./media/ping%20results%20pc%200%20ADMIN.png)
