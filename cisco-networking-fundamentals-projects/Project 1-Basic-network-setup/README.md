@@ -1,4 +1,4 @@
-# 🧪 Project 1: Basic Network Setup
+#  Project 1: Basic Network Setup
 
 This project demonstrates how to build a simple network using **Cisco Packet Tracer**.  
 It includes configuring two PCs and a switch to ensure they can communicate with each other.
