@@ -41,11 +41,23 @@ I am are required to divide it into **4 subnets** for different departments.
 
 ## 🖼️ Media (Screenshots or Diagram)
 
-Click the image below to view the subnetting design or simulation:
 
-[![IP Subnetting Diagram](./media/ip-subnetting-diagram.png)](./media/ip-subnetting-diagram.png)
 
----
+---# 📁 Media Files – Project 2: IP Subnetting
+
+### 🔌 Network Topology
+- [Project 2 IP Subnetting Network Topology](./media/project%202%20IP%20subnetting%20network%20topology.png)
+
+### 💻 IP Configuration Screenshots
+- [IP Configuration – PC 0 ADMIN](./media/ip%20configuration%20pc%200%20ADMIN.png)
+- [IP Configuration – PC 1 HR](./media/ip%20configuration%20pc%201%20HR.png)
+- [IP Configuration – PC 2 IT](./media/ip%20configuration%20pc%202%20IT.png)
+- [IP Configuration – PC 3 SALES](./media/ip%20configuration%20pc%203%20SALES.png)
+
+### 📶 Ping Test Results
+- [Ping Result – PC 0 ADMIN](./media/ping%20results%20pc%200%20ADMIN.png)
+- [Ping Result – PC 1 HR](./media/ping%20results%20pc%201%20HR.png)
+- [Ping Result – PC 2 IT](./media/ping%20results%20pc%202%20IT.png)
 
 ## 🚀 Implementation Steps
 
