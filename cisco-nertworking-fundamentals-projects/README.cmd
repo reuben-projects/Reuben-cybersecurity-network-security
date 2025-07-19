@@ -7,7 +7,7 @@ Each project showcases a real-world networking concept using Cisco Packet Tracer
 
 
 
-## 🧪 Projects List
+## Projects List
 
 1. **Basic Network Setup**  
 2. **IP Subnetting**  
