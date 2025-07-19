@@ -13,13 +13,13 @@ This folder contains all screenshots and media files used in **Project 2: IP Sub
 ---
 
 ### 📌 ip-config-pc0.png  
-- **Description**: IP configuration of PC0.
+- **Description**: IP configuration of PC0,pc1,pc2
 - **Contents**: Shows assigned IP address, subnet mask, and default gateway for PC0.
 
 ---
 
 ### 📌 ping-results-pc1.png  
-- **Description**: Ping test results from PC0.
+- **Description**: Ping test results from PC0,pc1,pc2
 - **Contents**: Demonstrates that devices on different subnets cannot communicate without a router.
 
 ---
