@@ -1,4 +1,4 @@
-# Cisco Networking Fundamentals Projects
+# Cisco Networking Fundamentals Projects.
 
 This folder contains practical labs and exercises from my Cisco Networking Fundamentals course.  
 Each project showcases a real-world networking concept using Cisco Packet Tracer.
