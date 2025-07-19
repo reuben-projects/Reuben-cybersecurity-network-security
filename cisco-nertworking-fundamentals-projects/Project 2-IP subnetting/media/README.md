@@ -14,7 +14,7 @@ This folder contains all screenshots and media files used in **Project 2: IP Sub
 
 ### 📌 ip-config-pc0.png  
 - **Description**: IP configuration of PC0,pc1,pc2
-- **Contents**: Shows assigned IP address, subnet mask for PC0,pc1,pc2
+- **Contents**: Shows assigned IP address, subnet mask for PC0,pc1,pc2,pc3
 
 ---
 
