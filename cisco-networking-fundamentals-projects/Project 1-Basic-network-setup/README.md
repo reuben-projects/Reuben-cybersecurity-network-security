@@ -21,7 +21,11 @@ It includes configuring two PCs and a switch to ensure they can communicate with
 ---
 
 ## 🖼️ Screenshots / Diagrams
-[View Network Topology Diagram](./media/network-topology.png)
+
+👉[View Network Topology Diagram](./media/network-topology.png)
+
+👉 [View Ping Test Results](./media/ping-test-results.png)
+
 
 
 
