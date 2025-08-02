@@ -21,10 +21,15 @@ Two PCs connected to a switch.
 
 ## 📸 Screenshots
 ### Network Topology  
-![Topology](topology.png)
+![Topology](networktopology.png)
 
-### Ping Results  
-![Ping Result](ping-result.png)
+### IP configuration
+![Topology](pc0ip.png)
+![Topology](pc1ip.png)
+
+
+### Ping test results 
+![Ping Result](pingresult.png)
 
 ## 📁 Files
 - `Lab1-Basic-IP-Subnetting.pkt`: Packet Tracer project
