@@ -1,17 +1,32 @@
-# Lab 1 – Basic IP Subnetting
+ 
+# Lab 1: Basic IP Subnetting and Connectivity
 
-This lab shows how to divide a network into subnets and test connectivity using Cisco Packet Tracer.
+## 🎯 Objective
+Set up a simple network using subnetting, assign IP addresses, and verify PC-to-PC connectivity.
 
-## Tools Used
-- Cisco Packet Tracer
+## 🖥️ Topology
+Two PCs connected to a switch.
 
-## What I Did
-- Subnetted a network
-- Assigned IP addresses to devices
-- Tested connectivity using `ping`
+## 🧮 Subnetting Details
+- Network: 192.168.10.0/24
+- Subnet Mask: /26 → 255.255.255.192
+- Subnet Used: 192.168.10.0/26
+- PC0 IP: 192.168.10.1
+- PC1 IP: 192.168.10.2
 
-## Screenshots
-_Screenshots will be added here soon._
+## ✅ Tasks Completed
+- Subnet calculated manually
+- IP addresses configured on both PCs
+- Successful ping from PC0 to PC1
 
-## Result
-All devices could ping each other.
+## 📸 Screenshots
+### Network Topology  
+![Topology](topology.png)
+
+### Ping Results  
+![Ping Result](ping-result.png)
+
+## 📁 Files
+- `Lab1-Basic-IP-Subnetting.pkt`: Packet Tracer project
+- `topology.png`: Network topology screenshot
+- `ping-result.png`: Ping output screenshot
