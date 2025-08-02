@@ -25,6 +25,7 @@ Two PCs connected to a switch.
 🔗 [📸 View PC1 IP](pc%201%201p.png)  
 🔗 [📸 View Ping Result](ping%20result.png)
 
+
 ## 📁 Files
-- `Lab1-Basic-IP-Subnetting.pkt`: Packet Tracer project file
-- Screenshot images as listed above
+- [`GITHUB-IP subnetting project.pkt`](GITHUB-IP%20subnetting%20project.pkt) – Packet Tracer project file
+- Screenshots: `networktopology.png`, `pc0ip.png`, `pc1ip.png`, `pingresult.png`
