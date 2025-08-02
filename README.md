@@ -58,7 +58,7 @@ To become a **skilled and certified Network Security Analyst** by 2029through a 
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Cisco Networking Labs](https://github.com/Reuben-cybersecurity-network-security/tree/main/Cisco-Networking-Labs) | Router/switch configs, IP addressing, subnetting, etc. | Cisco Packet Tracer |
+| [Cisco Networking Labs](| [Lab 1: Basic IP Subnetting](https://github.com/Reuben-cybersecurity-network-security/Cisco-Networking-Labs/tree/main/Lab1-Basic-IP-Subnetting) | Subnet a network and test connectivity | Packet Tracer |) | Router/switch configs, IP addressing, subnetting, etc. | Cisco Packet Tracer |
 | [TryHackMe Walkthroughs](#) | CTF room walkthroughs, attack simulations | TryHackMe |
 | [Packet Tracer Setups](#) | Custom network topologies and simulations | Packet Tracer |
 | [Wireshark Logs & Analysis](#) | Packet captures, protocol analysis | Wireshark |
