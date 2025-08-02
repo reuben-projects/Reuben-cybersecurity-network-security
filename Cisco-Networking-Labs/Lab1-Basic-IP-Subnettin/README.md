@@ -1,4 +1,4 @@
- 
+
 # Lab 1: Basic IP Subnetting and Connectivity
 
 ## 🎯 Objective
@@ -19,19 +19,12 @@ Two PCs connected to a switch.
 - IP addresses configured on both PCs
 - Successful ping from PC0 to PC1
 
-## 📸 Screenshots
-### Network Topology  
-![Topology](networktopology.png)
-
-### IP configuration
-![Topology](pc0ip.png)
-![Topology](pc1ip.png)
-
-
-### Ping test results 
-![Ping Result](pingresult.png)
+## 📸 Screenshots  
+🔗 [📸 View Network Topology](network%20topology.png)  
+🔗 [📸 View PC0 IP](pc%200%20ip.png)  
+🔗 [📸 View PC1 IP](pc%201%201p.png)  
+🔗 [📸 View Ping Result](ping%20result.png)
 
 ## 📁 Files
-- `Lab1-Basic-IP-Subnetting.pkt`: Packet Tracer project
-- `topology.png`: Network topology screenshot
-- `ping-result.png`: Ping output screenshot
+- `Lab1-Basic-IP-Subnetting.pkt`: Packet Tracer project file
+- Screenshot images as listed above
