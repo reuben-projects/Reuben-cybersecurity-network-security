@@ -3,9 +3,9 @@
  👨🏾‍💻 Reuben Sarbah – Aspiring Network Security Analyst.
 
 📍 Accra, Ghana  
-🎓 BSc IT Networking Student – Accra Institute of Technology  
-🔐 Cybersecurity Learner – ALX Africa (2025–2026 Cohort)  
-📧 officialreuben331@gmail.com  
+🎓 Student – Accra Institute of Technology  
+🔐 Cybersecurity Learner – ALX Africa (2025–2027Cohort)  
+📧 reuben2official@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/reuben-sarbah-b35414366)
 
 ---
@@ -48,24 +48,29 @@ To become a **skilled and certified Network Security Analyst** by 2029through a 
 
 ## 🧪 Projects
 
-| Project                          | Description                                                | Tools               |
-|----------------------------------|------------------------------------------------------------|---------------------|
-| [Cisco Networking Labs](./cisco-networking-labs) | Router/switch configs, IP addressing, subnetting, etc.    | Cisco Packet Tracer |
-| [TryHackMe Walkthroughs](./tryhackme-walkthroughs) | CTF room walkthroughs, attack simulations                 | TryHackMe           |
-| [Packet Tracer Setups](./packet-tracer-setups)     | Custom network topologies and simulations                | Packet Tracer       |
-| [Wireshark Logs & Analysis](./wireshark-logs)      | Packet captures, protocol analysis                       | Wireshark           |
-| [Certificates](./certificates)                     | Completed certifications, course badges                  | PDF/PNG             |
+
 
 ---
 
 ## 🛠 Tools & Skills in Progress
 
-- Cisco Packet Tracer
-- Wireshark
-- TryHackMe
-- Git & GitHub for documentation
-- Linux (via VirtualBox & Ubuntu)
-- Networking: IP, DNS, DHCP, Subnetting, VLANs, Routing
+- Cisco Packet Tracer## 🧪 Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Cisco Networking Labs](https://github.com/Reuben-cybersecurity-network-security/tree/main/Cisco-Networking-Labs) | Router/switch configs, IP addressing, subnetting, etc. | Cisco Packet Tracer |
+| [TryHackMe Walkthroughs](#) | CTF room walkthroughs, attack simulations | TryHackMe |
+| [Packet Tracer Setups](#) | Custom network topologies and simulations | Packet Tracer |
+| [Wireshark Logs & Analysis](#) | Packet captures, protocol analysis | Wireshark |
+| [Certificates](#) | Completed certifications, course badges | PDF/PNG |
+🛠 Tools & Skills in Progress
+Cisco Packet Tracer
+Wireshark
+TryHackMe
+Git & GitHub for documentation
+Linux (via VirtualBox & Ubuntu)
+Networking: IP, DNS, DHCP, Subnetting, VLANs, Routing
+
 
 ---
 
